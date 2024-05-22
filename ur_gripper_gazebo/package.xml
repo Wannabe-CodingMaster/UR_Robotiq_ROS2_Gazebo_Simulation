@@ -3,9 +3,9 @@
 <package format="3">
   <name>ur_gripper_gazebo</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="yong@todo.todo">yong</maintainer>
-  <license>TODO: License declaration</license>
+  <description>Gazebo simulation using UR and Robotiq 2f-85</description>
+  <maintainer email="dkeldltsi@gmail.com">yong</maintainer>
+  <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
