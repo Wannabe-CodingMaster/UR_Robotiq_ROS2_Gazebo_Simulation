@@ -5,7 +5,7 @@ Gazebo Classic Simulation of Universial Robot + Robotiq 2f-85.
 ![Static Badge](https://img.shields.io/badge/ROS-Humble-green)
 ![Static Badge](https://img.shields.io/badge/Gazebo-Classic_(11)-green)
 
-## Running Simualtion
+## Running Simulation
 ```
 ros2 launch ur_gripper_gazebo gazebo.launch.py
 ```
